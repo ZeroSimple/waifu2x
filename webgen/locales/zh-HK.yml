@@ -1,0 +1,25 @@
+---
+description: 基於深度卷積神經網絡的漫畫風格圖片單幅超分辨率軟件。它支持照片。
+show_demonstration: 顯示完整演示
+go_to_github: 轉至GitHub
+image_choosing: 選擇圖像
+type_url: 輸入圖像URL
+choose_file: 或者從本地上傳
+file_limits: "文件大小不得超過5MB；可降噪圖像的最大尺寸：3000x3000px；可放大圖像的最大尺寸：1500x1500px。"
+style: 風格
+artwork: 插圖
+photo: 照片
+noise_reduction: 降噪程度
+expect_jpeg: 可能會產生JPEG噪點
+nr_none: 不降噪
+nr_low: 低
+nr_medium: 中
+nr_high: 高
+nr_highest: 最高
+nr_hint: "請僅在圖像本身含有噪點的情況下使用降噪，否則可能產生反效果。"
+upscaling: 放大倍數
+up_none: 不放大
+button_convert: 轉換
+button_download: 下載
+hints:
+  - "Firefox無法用右鍵菜單中的“保存圖像”，請按Ctrl+S保存。"
